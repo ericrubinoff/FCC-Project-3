@@ -1,6 +1,6 @@
 ### FCC Project 3 | Landing Page
 
-Check out the final result [here](#).
+Check out the final result [here](https://ericrubinoff.github.io/FCC-Project-3/).
 
 ##### Introduction
 
